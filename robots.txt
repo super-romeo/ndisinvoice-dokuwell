@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ndisinvoice.dokufolio.com/sitemap.xml
